@@ -1,5 +1,6 @@
 Dette er en tekstfil
 
 Nu e æ endra :)
+Denne linjen er endret av jon
 
 Hilsen Jon
